@@ -1,0 +1,12 @@
+# Internal document rendering and visual-QA outputs
+course_package_qa*/
+pdf_qa_pages*/
+rendered_course_packages/
+rendered_syllabus/
+syllabus_visual_qa*.pdf
+make_qa_contact_sheets.py
+
+# Python cache
+__pycache__/
+*.py[cod]
+
